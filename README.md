@@ -45,7 +45,7 @@ you are interested in.
 This can also be done using the query parameters the are specified along with the website's url. The parameters that can be given are specified in the Api document http://sunlightlabs.github.io/Capitol-Words/.
 
 ```python
-query_params = { 'apikey': '148ea5f5075c4b54b0e55bfa0d59bce1',
+query_params = { 'apikey': 'get_the_from_site',
                 'per_page': 3,
                 'phrase': 'congratulations to you!',
                 'sort': 'date desc'
