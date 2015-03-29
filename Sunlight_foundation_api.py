@@ -20,4 +20,4 @@ response = requests.get( endpoint, params=query_params)
 response.text
 
 data = json.loads(response.text)
-print json.dumps(data["results"][0])
+print json.dumps(data)
