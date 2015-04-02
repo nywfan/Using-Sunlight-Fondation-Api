@@ -1,4 +1,4 @@
-# Using-Sunlight-Api
+# Using-Sunlight-Foundation-Api
 
 An API is a set of  programming instructions and standards for accessing web
 based software applications. A wrapper is an API client, that are commonly used
